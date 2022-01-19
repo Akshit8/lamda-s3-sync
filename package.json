@@ -1,0 +1,17 @@
+{
+  "name": "lamda-s3-sync",
+  "version": "1.0.0",
+  "description": "A lambda function to sync large amount of data between s3 buckets across different regions and accounts",
+  "main": "function.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshit8/lamda-s3-sync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshit8/lamda-s3-sync/issues"
+  },
+  "homepage": "https://github.com/Akshit8/lamda-s3-sync#readme"
+}
